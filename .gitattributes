@@ -1,1 +1,2 @@
-*.js linguist-language=markdown
+*.cs linguist-language=markdown
+*.ico linguist-language=markdown
