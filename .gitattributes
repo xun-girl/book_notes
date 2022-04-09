@@ -1,2 +1,2 @@
-*.cs linguist-language=C++
-*.ico linguist-language=C++
+*.md linguist-detectable=true
+*.md linguist-documentation=false
