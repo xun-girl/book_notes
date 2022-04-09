@@ -1,2 +1,2 @@
-*.cs linguist-language=markdown
-*.ico linguist-language=markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
